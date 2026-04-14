@@ -1,4 +1,20 @@
 {
+    "Name": "Transformation of a Spatial Map across the Hippocampal-Lateral Septal Circuit",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0"
+    "HEDVersion": "8.3.0",
+    "Description": "The hippocampus constructs a map of the environment. How this \u201ccognitive map\u201d is utilized by other brain regions to guide behavior remains unexplored. To examine how neuronal firing patterns in the hippocampus are transmitted and transformed, we recorded neurons in its principal subcortical target, the lateral septum (LS). We observed that LS neurons carry reliable spatial information in the phase of action potentials, relative to hippocampal theta oscillations, while the firing rates of LS neurons remained uninformative. Furthermore, this spatial phase code had an anatomical microstructure within the LS and was bound to the hippocampal spatial code by synchronous gamma frequency cell assemblies. Using a data-driven model, we show that rate-independent spatial tuning arises through the dynamic weighting of CA1 and CA3 cell assemblies. Our findings demonstrate that transformation of the hippocampal spatial map depends on higher-order theta-dependent neuronal sequences.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Tingley, David",
+        "Buzsáki, György"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev6+gf29fa0039",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
 }
